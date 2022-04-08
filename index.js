@@ -1,5 +1,5 @@
 let container = document.getElementById("container");
-let limit = 500
+let limit = 25
 let page = 1
 let getPhotos = async () =>{
     try {
