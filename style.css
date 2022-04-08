@@ -1,0 +1,47 @@
+ 
+#container{
+    
+    border:1px solid;
+    padding: 5rem 3rem;
+    background-color:rgb(192, 207, 59);
+    margin:auto;
+    /* color: white; */
+  
+}
+h1{ 
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 2rem;
+}
+.div1{
+    max-width: 40rem;
+    width:40rem;
+    border:1px solid;
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+    background: rgb(233, 235, 236);
+    padding:4rem;
+   
+    margin: auto;
+    
+}
+.div1 img{
+    width: 30vw;
+    margin: auto;
+}
+h2{
+    border:1px solid;
+    height: 10vh;
+    width:10vw;
+    text-align: center;
+    background: rgb(55, 108, 222);
+    margin: auto;
+
+    
+}
+p{
+    padding:2rem;
+    font-size:18px;
+    margin: auto;
+}
